@@ -1,4 +1,4 @@
-# Stensborg Desktop Roll Nanoimprinter — Software
+# Stensborg Desktop Roll Nanoimprinter
 
 [![Latest installer](https://img.shields.io/badge/installer-v3.9.12-2563eb)](https://github.com/Stensborg/nanoimprinter-releases/releases/latest)
 
@@ -10,12 +10,12 @@ Operator software for the **Stensborg Desktop Roll Nanoimprinter v3**.
 
 `Nanoimprinter-3.9.12-windows-setup.exe` · released 2026-06-23
 
-The link above always offers the current release. You can also browse to
+The link above always offers the current release. You can also browse directly to
 **[the latest release page](https://github.com/Stensborg/nanoimprinter-releases/releases/latest)**,
 which always points to the newest installer.
 
 > Firmware and sensor updates are bundled with the application and applied
-> automatically — there is nothing else to download.
+> automatically.
 
 ## System requirements
 
@@ -31,7 +31,7 @@ which always points to the newest installer.
 
 ## Verifying the download (optional)
 
-Each installer is published alongside a `.sig` signature file for integrity
+Each installer is published alongside a `.sig` signature file to allow for integrity
 verification.
 
 ---
