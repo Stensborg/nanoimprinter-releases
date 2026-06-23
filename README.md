@@ -1,4 +1,4 @@
-# Stensborg Desktop Roll Nanoimprinter
+# Stensborg Desktop Roll Nanoimprinter — Software
 
 [![Latest installer](https://img.shields.io/badge/installer-v3.9.12-2563eb)](https://github.com/Stensborg/nanoimprinter-releases/releases/latest)
 
@@ -20,13 +20,14 @@ which always points to the newest installer.
 ## System requirements
 
 - 64-bit Windows 10 (version 1809 / build 17763) or later.
+- At least 1.2GB free disk space
 
 ## Install
 
 1. Download `Nanoimprinter-3.9.12-windows-setup.exe` using the link above.
 2. Run the installer and follow the prompts. Any previous version is removed
    automatically.
-3. Launch **Nanoimprinter** from the Start menu.
+3. Launch **Stensborg Nanoimprinter** from the Start menu.
 
 ## Verifying the download (optional)
 
