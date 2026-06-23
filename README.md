@@ -1,4 +1,4 @@
-# Stensborg Desktop Roll Nanoimprinter — Software
+# Stensborg Desktop Roll Nanoimprinter
 
 [![Latest installer](https://img.shields.io/badge/installer-v3.9.12-2563eb)](https://github.com/Stensborg/nanoimprinter-releases/releases/latest)
 
